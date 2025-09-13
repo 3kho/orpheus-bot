@@ -20,7 +20,7 @@ propcache==0.2.1
 pysyllables==1.0.3
 python-dotenv==1.0.1
 PyYAML==6.0.2
-requests==2.32.3
+requests==2.32.4
 slack_bolt==1.22.0
 slack_sdk==3.34.0
 syllables==1.0.9
